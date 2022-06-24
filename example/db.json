@@ -9,6 +9,25 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Fourth Article",
+      "content": "The fourth example",
+      "id": 4
+    },
+    {
+      "title": "Fifth Article",
+      "content": "This is a great fifth example",
+      "id": 5
+    },
+    {"title": "Sixth Article",
+     "content": "Coding at Moringa School",
+     "id": 5
     }
   ]
 }
